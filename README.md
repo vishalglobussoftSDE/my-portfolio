@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Vishwakarma
+# Portfolio of Vishal Vishwakarma
 
 This is my portfolio website to introduce myself, here I put my skills, projects, and contact details.
 
