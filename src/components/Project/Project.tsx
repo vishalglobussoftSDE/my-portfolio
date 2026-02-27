@@ -19,22 +19,25 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/MultilingualVQA" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Vishal2806/Mern-Chat-app-by-vishal" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="GitHub" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Multilingual VQA Vision-Language Model</h3>
+              <h3>Mern-Chat-app-by-vishal
+              </h3>
               <p>
-                Fine-tuned Qwen2.5-VL for visual question answering across 14 languages with optimized preprocessing.
+                Developed a real-time chat application using the MERN stack and Socket.IO, enabling instant one-to-one messaging with user authentication, live updates, and scalable backend APIs.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Python</li>
-                <li>Qwen2.5-VL</li>
-                <li>Unsloth</li>
+                <li>MongoDB</li>
+                <li>Express</li>
+                <li>React</li>
+                <li>Node.js</li>
+                <li>Socket.IO</li>
               </ul>
             </footer>
           </div>
@@ -50,7 +53,7 @@ export function Project() {
                 {/* <a href="https://vote.Vinayaksingh.com" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>  */}
-                </div>
+              </div>
             </header>
             <div className="body">
               <h3>Serverless Voting Application for Programming Languages</h3>
@@ -178,7 +181,7 @@ export function Project() {
           </div>
         </ScrollAnimation>
 
-        
+
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
